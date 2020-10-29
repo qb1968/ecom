@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 import bcrypt from 'bcryptjs'
-import { async } from 'rxjs'
+
 
 const userSchema = mongoose.Schema(
   {
