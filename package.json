@@ -2,8 +2,7 @@
   "name": "ecom",
   "version": "1.0.0",
   "description": "Ecom",
-  "engines": {"node": "15.0.1"},
-  "main": "server.js",
+   "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node backend/server",
